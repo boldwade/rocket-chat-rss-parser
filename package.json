@@ -1,0 +1,14 @@
+{
+  "name": "rss-rocket-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rss-parser-rocket-chat.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "rss-parser": "^3.6.0"
+  },
+  "devDependencies": {}
+}

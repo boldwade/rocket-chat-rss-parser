@@ -1,0 +1,18 @@
+{
+    "feeds": [
+        {
+            "channelName": "#rss-feed-1",
+            "webhookUrl": "Your websocket url here",
+            "urlFeeds": [
+                "my list of feeds"
+            ]
+        },
+        {
+            "channelName": "#rss-feed-2",
+            "webhookUrl": "Your websocket url here",
+            "urlFeeds": [
+                "my list of feeds"
+            ]
+        }
+    ]
+}
