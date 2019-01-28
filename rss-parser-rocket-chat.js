@@ -1,6 +1,6 @@
 const Parser = require('rss-parser');
 const request = require("request");
-const rssFeeds = require('../rss-rocket-chat/rss-feeders.json');
+const rssFeeds = require('./rss-feeders.json');
 const maxNumberOfPostsPerRssFeed = 10;
 
 const postToRocketChat = async(rocketChatPosts, webhookUrl) => {
